@@ -1,5 +1,5 @@
 pool: MyselfHosted
-  vmImage: 'DESKTOP-RJMV0DS' # Hosted Ubuntu 1604
+#  vmImage: 'DESKTOP-RJMV0DS' # Hosted Ubuntu 1604
   demands: maven
 
 steps:
