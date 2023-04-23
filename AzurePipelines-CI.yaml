@@ -1,4 +1,4 @@
-pool: MyselfHosted
+pool: Myselfhosted
 #  vmImage: 'DESKTOP-RJMV0DS' # Hosted Ubuntu 1604
   demands: maven
 
